@@ -1,0 +1,12 @@
+C:\Users\Suhail\source\repos\TestCase\bin\Debug\TestCase.dll
+C:\Users\Suhail\source\repos\TestCase\bin\Debug\TestCase.pdb
+C:\Users\Suhail\source\repos\TestCase\bin\Debug\nunit.framework.dll
+C:\Users\Suhail\source\repos\TestCase\bin\Debug\Triangle.exe
+C:\Users\Suhail\source\repos\TestCase\bin\Debug\Triangle.pdb
+C:\Users\Suhail\source\repos\TestCase\bin\Debug\Triangle.exe.config
+C:\Users\Suhail\source\repos\TestCase\bin\Debug\nunit.framework.xml
+C:\Users\Suhail\source\repos\TestCase\obj\Debug\TestCase.csprojAssemblyReference.cache
+C:\Users\Suhail\source\repos\TestCase\obj\Debug\TestCase.csproj.CoreCompileInputs.cache
+C:\Users\Suhail\source\repos\TestCase\obj\Debug\TestCase.csproj.CopyComplete
+C:\Users\Suhail\source\repos\TestCase\obj\Debug\TestCase.dll
+C:\Users\Suhail\source\repos\TestCase\obj\Debug\TestCase.pdb

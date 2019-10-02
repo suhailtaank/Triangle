@@ -1,0 +1,9 @@
+C:\Users\Suhail\source\repos\Triangle\bin\Debug\Triangle.exe.config
+C:\Users\Suhail\source\repos\Triangle\bin\Debug\Triangle.exe
+C:\Users\Suhail\source\repos\Triangle\bin\Debug\Triangle.pdb
+C:\Users\Suhail\source\repos\Triangle\bin\Debug\nunit.framework.dll
+C:\Users\Suhail\source\repos\Triangle\bin\Debug\nunit.framework.xml
+C:\Users\Suhail\source\repos\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Suhail\source\repos\Triangle\obj\Debug\Triangle.csproj.CopyComplete
+C:\Users\Suhail\source\repos\Triangle\obj\Debug\Triangle.exe
+C:\Users\Suhail\source\repos\Triangle\obj\Debug\Triangle.pdb
